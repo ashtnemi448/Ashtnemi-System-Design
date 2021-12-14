@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T15:54:36.999Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="4eArXbf6ErTjQRTtQgm3" version="15.9.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-14T16:00:47.422Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="tfnj4Lsjmls9sTFSWo81" version="15.9.4" type="github">
   <diagram id="5Mz5S5Dn57lBXB-KB1DM" name="Page-1">
     <mxGraphModel dx="2602" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,8 +79,8 @@
         <mxCell id="rRxszgVqbAuUqqFobiaQ-25" value="This can be used as set to check if same otp is not sent" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1290" y="500" width="310" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rRxszgVqbAuUqqFobiaQ-26" value="In case we want to do rate limiting&amp;nbsp;&lt;br&gt;ie a company using our service can ask for say 1000 otp per day&amp;nbsp;&lt;br&gt;in this case we would save count the count in cache&lt;br&gt;&lt;br&gt;here again there might be consistency problem&lt;br&gt;in same dc we can assume there is neigible latency&lt;br&gt;but in other continent dc thrrereree" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-1140" y="854" width="350" height="390" as="geometry" />
+        <mxCell id="rRxszgVqbAuUqqFobiaQ-26" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px&quot;&gt;INCOMPLETE&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;In case we want to do rate limiting&amp;nbsp;&lt;br&gt;ie a company using our service can ask for say 1000 otp per day&amp;nbsp;&lt;br&gt;in this case we would save count the count in cache&lt;br&gt;&lt;br&gt;here again there might be consistency problem&lt;br&gt;in same dc we can assume there is neigible latency&lt;br&gt;but in other continent dc thrrereree" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1310" y="890" width="350" height="164" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
