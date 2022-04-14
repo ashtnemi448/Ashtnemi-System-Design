@@ -1,56 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T10:11:29.666Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="5wH-FZEaa9swmLI-uhwh" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-14T06:46:22.399Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="y-qZB8b1DaAgdbwqGzMB" version="17.4.0" type="github">
   <diagram id="uVHeh8FJqV0SJRuzAU9Y" name="Page-1">
-    <mxGraphModel dx="1422" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ccAnJh5qXNPxZ3UjD6tM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="ccAnJh5qXNPxZ3UjD6tM-1" target="ccAnJh5qXNPxZ3UjD6tM-2">
+        <mxCell id="TzP-5-DrfsUYq5j6S_uc-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=52.5;exitPerimeter=0;entryX=0.659;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;" edge="1" parent="1" target="TzP-5-DrfsUYq5j6S_uc-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="869" y="152.5" as="sourcePoint" />
+            <mxPoint x="525.0799999999999" y="252" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TzP-5-DrfsUYq5j6S_uc-33" value="2. If data is present returns data &lt;br&gt;else returns record not found error" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="TzP-5-DrfsUYq5j6S_uc-32">
+          <mxGeometry x="0.1998" y="3" relative="1" as="geometry">
+            <mxPoint x="30" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ccAnJh5qXNPxZ3UjD6tM-12" value="Aerospike" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FF9999;" parent="1" vertex="1">
+          <mxGeometry x="790" y="100" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TzP-5-DrfsUYq5j6S_uc-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="TzP-5-DrfsUYq5j6S_uc-10" target="ccAnJh5qXNPxZ3UjD6tM-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ccAnJh5qXNPxZ3UjD6tM-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ccAnJh5qXNPxZ3UjD6tM-1" target="ccAnJh5qXNPxZ3UjD6tM-12">
+        <mxCell id="TzP-5-DrfsUYq5j6S_uc-10" value="LB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="750" y="360" width="50" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TzP-5-DrfsUYq5j6S_uc-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="890" y="410" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ccAnJh5qXNPxZ3UjD6tM-7" value="Contextual vendor service&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9CC0FF;" parent="TzP-5-DrfsUYq5j6S_uc-14" vertex="1">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TzP-5-DrfsUYq5j6S_uc-12" value="Contextual vendor service&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9CC0FF;" vertex="1" parent="TzP-5-DrfsUYq5j6S_uc-14">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TzP-5-DrfsUYq5j6S_uc-17" value="Contextual vendor service&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9CC0FF;" vertex="1" parent="TzP-5-DrfsUYq5j6S_uc-14">
+          <mxGeometry x="20" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TzP-5-DrfsUYq5j6S_uc-28" value="1. AdServer first checks if contextual&lt;br&gt;&amp;nbsp;data is there in aerospike" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="500" y="100" width="310" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="TzP-5-DrfsUYq5j6S_uc-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=27.5;entryPerimeter=0;fontSize=11;" edge="1" parent="1" source="TzP-5-DrfsUYq5j6S_uc-4" target="ccAnJh5qXNPxZ3UjD6tM-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="470" y="450" />
-              <mxPoint x="1240" y="450" />
-              <mxPoint x="1240" y="260" />
+              <mxPoint x="490" y="128" />
+              <mxPoint x="735" y="128" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ccAnJh5qXNPxZ3UjD6tM-1" value="AdServer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="410" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ccAnJh5qXNPxZ3UjD6tM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="ccAnJh5qXNPxZ3UjD6tM-2" target="ccAnJh5qXNPxZ3UjD6tM-8">
+        <mxCell id="TzP-5-DrfsUYq5j6S_uc-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="TzP-5-DrfsUYq5j6S_uc-4" target="TzP-5-DrfsUYq5j6S_uc-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ccAnJh5qXNPxZ3UjD6tM-10" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ccAnJh5qXNPxZ3UjD6tM-2" target="ccAnJh5qXNPxZ3UjD6tM-7">
+        <mxCell id="TzP-5-DrfsUYq5j6S_uc-4" value="AdServer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="380" y="220" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TzP-5-DrfsUYq5j6S_uc-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="TzP-5-DrfsUYq5j6S_uc-37" target="TzP-5-DrfsUYq5j6S_uc-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ccAnJh5qXNPxZ3UjD6tM-11" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ccAnJh5qXNPxZ3UjD6tM-2" target="ccAnJh5qXNPxZ3UjD6tM-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="TzP-5-DrfsUYq5j6S_uc-37" value="DrProxy" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="430" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ccAnJh5qXNPxZ3UjD6tM-2" value="DrProxy" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="560" y="240" width="60" height="40" as="geometry" />
+        <mxCell id="TzP-5-DrfsUYq5j6S_uc-39" value="3. If data not found in&amp;nbsp;&lt;br&gt;Aerospike adserver&lt;br&gt;calls DrProxy with &lt;br&gt;impression parameters&amp;nbsp;&lt;br&gt;and lb&#39;s Ip in header" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="610" y="360" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ccAnJh5qXNPxZ3UjD6tM-15" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ccAnJh5qXNPxZ3UjD6tM-6" target="ccAnJh5qXNPxZ3UjD6tM-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="TzP-5-DrfsUYq5j6S_uc-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fillColor=none;dashed=1;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="210" width="240" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="ccAnJh5qXNPxZ3UjD6tM-6" value="Contextual vendor service&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9CC0FF;" vertex="1" parent="1">
-          <mxGeometry x="780" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="TzP-5-DrfsUYq5j6S_uc-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;" edge="1" parent="1" source="TzP-5-DrfsUYq5j6S_uc-17" target="ccAnJh5qXNPxZ3UjD6tM-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1080" y="460" />
+              <mxPoint x="1080" y="140" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="ccAnJh5qXNPxZ3UjD6tM-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ccAnJh5qXNPxZ3UjD6tM-7" target="ccAnJh5qXNPxZ3UjD6tM-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="TzP-5-DrfsUYq5j6S_uc-45" value="" style="endArrow=none;html=1;rounded=0;fontSize=11;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="580" as="sourcePoint" />
+            <mxPoint x="1190" y="580" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="ccAnJh5qXNPxZ3UjD6tM-7" value="Contextual vendor service&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9CC0FF;" vertex="1" parent="1">
-          <mxGeometry x="780" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="TzP-5-DrfsUYq5j6S_uc-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="TzP-5-DrfsUYq5j6S_uc-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970" y="620" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="ccAnJh5qXNPxZ3UjD6tM-13" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ccAnJh5qXNPxZ3UjD6tM-8" target="ccAnJh5qXNPxZ3UjD6tM-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="TzP-5-DrfsUYq5j6S_uc-47" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="991" y="620" as="sourcePoint" />
+            <mxPoint x="991" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="991" y="550" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="ccAnJh5qXNPxZ3UjD6tM-8" value="Contextual vendor service&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9CC0FF;" vertex="1" parent="1">
-          <mxGeometry x="780" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="TzP-5-DrfsUYq5j6S_uc-48" value="&lt;font style=&quot;font-size: 19px&quot;&gt;Call to third party vendor&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=1;dashed=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="890" y="630" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ccAnJh5qXNPxZ3UjD6tM-12" value="Aerospike" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FF9999;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="220" width="140" height="80" as="geometry" />
+        <mxCell id="TzP-5-DrfsUYq5j6S_uc-50" value="&lt;span&gt;4. Contextual service will &lt;br&gt;combine data &lt;br&gt;from all vendors &lt;br&gt;and write it to aerospike&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="940" y="320" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
