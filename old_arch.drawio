@@ -1,1 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T01:52:03.576Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="v6XYPTnXq6WuUkxhPnUx" version="17.5.0" type="github"><diagram id="1Y5T5DOfBjxiaWSJh590" name="Page-1">7ZlJc5swFIB/jY/NAAIvR8dOl5mkzUyatjkqoIAagRghbJNfX8mIVbbr1DYkTU6gpw29970FGIBZuPrEYBxcUQ+RgWV4qwGYDyzLNI2xuEhJlktsYOcCn2FPDaoEN/gJKaGhpCn2UNIYyCklHMdNoUujCLm8IYOM0WVz2AMlzV1j6CNNcONCokt/Yo8HSjqxjKrjM8J+UGxtGaonhMVoJUgC6NFlTQQuBmDGKOX5XbiaISK1Vygmn/dxS2/5ZAxFfJ8J/vfJ19sf367uoow8PU5uv9w9+h+G6tl4VpwYeUIBqkkZD6hPI0guKuk5o2nkIbmqIVrVmEtKYyE0hfA34jxT1oQpp0IU8JCo3nxPudHWoyhRQlPmoh3PXzABmY/4jnF2qXCBKqIh4iwT8xgikONF8zmgYsYvx1VaFTdKsc9Q8qgPJQtVsuyXmr9u3MnGmVM056t65zxTrR6MA/o0jlp3AUmqdpp6CWILxDSrNW2yDDBHNzFcq2Apwt8myMUyHK12a1I/uZpgTVToUMGzjC3LWigqwktQi0JD40TKGvdKstkk2eoQZfAa4gzQUJ7RSODHUyjnTmPcO9KO3UJ60jfSzivPgPaeZG6xSzdk2hqZVyh0oRsgWbuRNOEvINzawyabZu/h1tSTk05r5E1loStaEY1QUytNFe5Lna6hmgacDQooZHvDpHa4plhsXBpgBJoGsEFLsbkzqFn1UvcvC5nj1kK5t2gLrY1UHvsAu1nPsptLYJJgd5fp0ArzMgWK+3oGFM0qAcrGqfJfb1y0HBMYR+LC6poLPUOfhIt3LA7CAlgdY6Gnx5NgMXrn4jAunI65cDQufpgaGbLAb7IACfYjCYqwm6irwLksi7ALyVR1hNjz8kIWJfgJ3q+XkgjE8ijrwznnA2cu1xK1a5KXsXLphDP6iGaUUFYVHA+YkJZocHg5Nmy//Y70cgxsoKjtvMerxoa6OXRH/W/NMXY2e1Vv5hjp5gBvxhwjoxWbQM/m2JSz3sZXTvVR7GW/gRdPWfOWyOOLM5eGmt26fvE2zSbLjo5yt+/d5S+bF8Fyl985zcm+MI8PpHk9VZS0MKsNUBF2a2lntUoCp/XLa/fwodMiI9/+uDXbRPOzqcup/nUrCWAsb9OQ5AOqRHQJ7xG5FomFYyoT0j3lXLipnqk4bTkjTTnBkchAxd9Q41jZpql3a79k8w8OKprVL9HcKNWfZXDxBw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-16T01:53:16.811Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="c_H78iJkPgnvPKByaAsP" version="17.5.0" type="github">
+  <diagram id="1Y5T5DOfBjxiaWSJh590" name="Page-1">
+    <mxGraphModel dx="1108" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gT9NUVOMYnylzk9UIYkg-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gT9NUVOMYnylzk9UIYkg-1" target="gT9NUVOMYnylzk9UIYkg-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gT9NUVOMYnylzk9UIYkg-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gT9NUVOMYnylzk9UIYkg-1" target="gT9NUVOMYnylzk9UIYkg-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gT9NUVOMYnylzk9UIYkg-1" value="Adserver" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gT9NUVOMYnylzk9UIYkg-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="gT9NUVOMYnylzk9UIYkg-3" target="gT9NUVOMYnylzk9UIYkg-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gT9NUVOMYnylzk9UIYkg-3" value="Contextual Api" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gT9NUVOMYnylzk9UIYkg-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gT9NUVOMYnylzk9UIYkg-4" target="gT9NUVOMYnylzk9UIYkg-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gT9NUVOMYnylzk9UIYkg-4" value="Memcache cluster" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gT9NUVOMYnylzk9UIYkg-11" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="430" as="sourcePoint" />
+            <mxPoint x="730" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gT9NUVOMYnylzk9UIYkg-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="gT9NUVOMYnylzk9UIYkg-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="300" as="sourcePoint" />
+            <mxPoint x="730" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gT9NUVOMYnylzk9UIYkg-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="gT9NUVOMYnylzk9UIYkg-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="300" as="sourcePoint" />
+            <mxPoint x="730" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gT9NUVOMYnylzk9UIYkg-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="gT9NUVOMYnylzk9UIYkg-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="300" as="sourcePoint" />
+            <mxPoint x="730" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gT9NUVOMYnylzk9UIYkg-15" value="V1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="690" y="270" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gT9NUVOMYnylzk9UIYkg-16" value="V2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="685" y="300" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gT9NUVOMYnylzk9UIYkg-17" value="V3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="700" y="330" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gT9NUVOMYnylzk9UIYkg-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gT9NUVOMYnylzk9UIYkg-18" target="gT9NUVOMYnylzk9UIYkg-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gT9NUVOMYnylzk9UIYkg-18" value="ndtv.com" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gT9NUVOMYnylzk9UIYkg-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="gT9NUVOMYnylzk9UIYkg-19" target="gT9NUVOMYnylzk9UIYkg-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="250" />
+              <mxPoint x="20" y="65" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gT9NUVOMYnylzk9UIYkg-19" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OOc_maei3ik72JGBLW56-1" value="ndtv.com/sports" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="30" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OOc_maei3ik72JGBLW56-2" value="Wc 2022 india squad" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="110" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OOc_maei3ik72JGBLW56-3" value="hash(url) = key" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="270" width="100" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
